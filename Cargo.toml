@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-  "cap_1/cap1_3"
+  "cap_1/cap1_3",
+  "cap_2"
 ]
