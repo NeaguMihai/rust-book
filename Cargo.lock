@@ -7,6 +7,10 @@ name = "cap1_3"
 version = "0.1.0"
 
 [[package]]
+name = "cap3_1"
+version = "0.1.0"
+
+[[package]]
 name = "cap_2"
 version = "0.1.0"
 dependencies = [
