@@ -10,4 +10,7 @@ members = [
   "cap_4/cap4_1",
   "cap_4/cap4_2",
   "cap_4/cap4_3",
+  "cap_5/cap5_1",
+  "cap_5/cap5_2",
+  "cap_5/cap5_3",
 ]
