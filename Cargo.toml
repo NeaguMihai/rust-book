@@ -4,4 +4,5 @@ members = [
   "cap_1/cap1_3",
   "cap_2",
   "cap_3/cap3_1",
+  "cap_3/cap3_2",
 ]
