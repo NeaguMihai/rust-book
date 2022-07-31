@@ -43,6 +43,13 @@ name = "cap5_2"
 version = "0.1.0"
 
 [[package]]
+name = "cap5_3"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
 name = "cap_2"
 version = "0.1.0"
 dependencies = [

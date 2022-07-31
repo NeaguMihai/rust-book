@@ -3,7 +3,7 @@ fn main() {
         height: 20,
         width: 22,
     };
-
+    area(&r);
     println!("{:#?}", r); //:? specified Debug format :#? pune si structul
 }
 
