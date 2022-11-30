@@ -3,6 +3,24 @@
 version = 3
 
 [[package]]
+name = "app"
+version = "0.1.0"
+dependencies = [
+ "application_structure",
+]
+
+[[package]]
+name = "application_structure"
+version = "0.1.0"
+dependencies = [
+ "backend",
+]
+
+[[package]]
+name = "backend"
+version = "0.1.0"
+
+[[package]]
 name = "cap1_3"
 version = "0.1.0"
 
