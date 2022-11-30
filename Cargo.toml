@@ -15,4 +15,6 @@ members = [
   "cap_5/cap5_3",
   "cap_6/cap6_1_2",
   "cap_6/cap6_3",
+  "cap_7/application_structure",
+  "cap_7/app",
 ]
