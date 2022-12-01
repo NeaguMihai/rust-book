@@ -76,6 +76,10 @@ name = "cap6_3"
 version = "0.1.0"
 
 [[package]]
+name = "cap_10"
+version = "0.1.0"
+
+[[package]]
 name = "cap_2"
 version = "0.1.0"
 dependencies = [
