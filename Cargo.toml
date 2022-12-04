@@ -20,5 +20,8 @@ members = [
   "cap_8",
   "cap_9",
   "cap_10",
-  "cap_11"
+  "cap_11",
+  "minigrep",
+  "cap_16",
+  "server"
 ]
